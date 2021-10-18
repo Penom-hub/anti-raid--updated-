@@ -1,0 +1,2 @@
+mainprefix: '!' ## bot prefix 
+token: '' ##Bot Token (To get a bot token go to https://discord.com/developers/applications and create a application, once doing so navigate to the button that says "bot" click create bot and copy your token, once done paste your bot token in between the '' symbols.)
